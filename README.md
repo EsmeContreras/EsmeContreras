@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Esme]()
+![Esme](https://github.com/EsmeContreras/EsmeContreras/blob/main/bannerECP.gif)
