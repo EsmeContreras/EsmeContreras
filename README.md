@@ -16,3 +16,8 @@ Here are some ideas to get you started:
 -->
 
 ![Esme](https://github.com/EsmeContreras/EsmeContreras/blob/main/bannerECP.gif)
+
+
+##Contact
+
+[![Gmail](https://img.shields.io/badge/-Gmail-0D1117?style=for-the-badge&logo=gmail&labelColor=0D1117)](mailto:esme.pcontreras@gmail.com)&nbsp;
