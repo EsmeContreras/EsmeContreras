@@ -34,14 +34,10 @@ Here are some ideas to get you started:
 - [![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)]()
 - [![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)]()
 
+## Contact
 
-(URL_DEL_ENLACE_O_PÁGINA_AL_QUE_DEBE_DIRIGIR_EL_DISTINTIVO)
-
+[![Gmail](https://img.shields.io/badge/-Gmail-0D1117?style=for-the-badge&logo=gmail&labelColor=0D1117)](mailto:esme.pcontreras@gmail.com)&nbsp;
 
 
 ![Esme](https://github.com/EsmeContreras/EsmeContreras/blob/main/bannerECP.gif)
 
-
-##Contact
-
-[![Gmail](https://img.shields.io/badge/-Gmail-0D1117?style=for-the-badge&logo=gmail&labelColor=0D1117)](mailto:esme.pcontreras@gmail.com)&nbsp;
